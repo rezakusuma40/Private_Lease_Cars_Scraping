@@ -34,7 +34,7 @@ The website features a collection of private leasing cars, with each card displa
 - Pandas
 
 ## Performance Comparison
-So far both script always finish succesfully without missing any data. The Selenium-wire script tends to perform faster due to its ability to fetch data for multiple pages via XHR requests, despite occasional retries. The Selenium alone script provides more consistent runtime but often finishes longer due to navigating individual car pages.
+So far both script always finish succesfully without missing any data, If number of data differs between both script it can be caused by the difference of both scripts' last running date. The Selenium-wire script tends to perform faster due to its ability to fetch data for multiple pages via XHR requests, despite occasional retries. The Selenium alone script provides more consistent runtime but often finishes longer due to navigating individual car pages.
 
 ## Data Validation
 The Selenium-wire script incorporates data validation using Pydantic to ensure the integrity and correctness of scraped data.
