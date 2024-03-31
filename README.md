@@ -42,3 +42,6 @@ The Selenium Wire script incorporates data validation using Pydantic to ensure t
 ## Future Improvements
 - Address certificate trust issues in the Selenium Wire script for more consistent performance.
 - Enhance error handling mechanisms to handle edge cases more gracefully.
+
+## Contact
+Fell free to contact me if you have any questions or feedback! I'll gladly appreciate it!
