@@ -1,7 +1,7 @@
 # Web Scraping Project
 
 ## Overview
-This project aims to scrape data from a dynamic private leasing cars website using Selenium and Selenium Wire in Python. Two scripts have been developed for this purpose, each with its approach to scraping the required data.
+This project aims to scrape data from a dynamic private leasing cars website using Selenium and Selenium-wire in Python. Two scripts have been developed for this purpose, each with its approach to scraping the required data.
 
 ## Website Description
 The website features a collection of private leasing cars, with each card displaying information such as car manufacturer, model, price, and a hyperlink. The webpage dynamically loads additional cards via a "Load More" button, making traditional scraping methods challenging. Some hyperlinks lead to individual car pages, while others navigate to new pages with additional listings, requiring a recursive scraping approach.
@@ -16,33 +16,35 @@ The website features a collection of private leasing cars, with each card displa
 
 ## Features
 - **Selenium Alone Script:** 
-  - Scrapes data directly from the website, utilizing regex for extracting information from text.
+  - Scrapes data directly from the website, utilizing regular expression for extracting information from text.
   - Navigates to individual car pages and handles individual pages with error.
-- **Selenium Wire Script:**
+- **Selenium-wire Script:**
   - Utilizes XHR requests to fetch data from multiple pages efficiently.
   - Parses data from XHR responses for faster scraping.
   - Automatically detects XHR requests and it's response.
+  - Utilizes pydantic for data validation
 
 ## Technologies Used
 - Python
-- Selenium
-- Selenium Wire
-- Pydantic (for data validation in the Selenium Wire script)
-- Pandas (for saving data as csv)
 - Fake user agent
+- Selenium
+- Selenium-wire
+- Regular Expression
+- Pydantic
+- Pandas
 
 ## Performance Comparison
-So far both script always finish succesfully without missing any data. The Selenium Wire script tends to perform faster due to its ability to fetch data for multiple pages via XHR requests, despite occasional retries. The Selenium alone script provides more consistent runtime but often finishes longer due to navigating individual car pages.
+So far both script always finish succesfully without missing any data. The Selenium-wire script tends to perform faster due to its ability to fetch data for multiple pages via XHR requests, despite occasional retries. The Selenium alone script provides more consistent runtime but often finishes longer due to navigating individual car pages.
 
 ## Data Validation
-The Selenium Wire script incorporates data validation using Pydantic to ensure the integrity and correctness of scraped data.
+The Selenium-wire script incorporates data validation using Pydantic to ensure the integrity and correctness of scraped data.
 
 ## Known Issues
-- Certificate trust issues may lead to varying runtimes in the Selenium Wire script.
+- Certificate trust issues may lead to varying runtimes in the Selenium-wire script.
 - Handling dynamic content and XHR requests may introduce occasional retries.
 
 ## Future Improvements
-- Address certificate trust issues in the Selenium Wire script for more consistent performance.
+- Address certificate trust issues in the Selenium-wire script for more consistent performance.
 - Enhance error handling mechanisms to handle page with new kind of error.
 
 ## Contact
