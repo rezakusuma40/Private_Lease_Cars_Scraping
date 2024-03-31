@@ -106,7 +106,7 @@ for selected_api in selected_api_list:
   json_data = json.loads(decoded_body)
   car_list = [Item.model_validate(car) for car in json_data['items']]
   df = pd.concat([df, pd.DataFrame([car.model_dump() for car in car_list])], ignore_index=True)
-df.to_csv('cars.csv', index=False)
+df.to_csv('cars_wire.csv', index=False)
 
 end_time = time()
 duration = end_time - start_time
