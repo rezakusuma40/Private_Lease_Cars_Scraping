@@ -1,0 +1,314 @@
+manufacturer,model,price,fuel_type,vehicle_chasis
+Hyundai,i10,249.0,Benzine,Hatchback
+Hyundai,i20,319.0,Benzine,Hatchback
+Hyundai,Bayon,349.0,Benzine,SUV
+Nissan,Juke,359.0,Benzine,SUV
+Nissan,Leaf,359.0,Elektriciteit,Hatchback
+Nissan,Juke,429.0,Hybride benzine,SUV
+Nissan,QASHQAI,449.0,Benzine,SUV
+Nissan,QASHQAI,489.0,Hybride benzine,SUV
+Hyundai,IONIQ 5,539.0,Elektriciteit,SUV
+Nissan,Ariya,539.0,Elektriciteit,SUV
+Hyundai,IONIQ 6,569.0,Elektriciteit,Sedan
+Hyundai,Tucson,599.0,Hybride benzine,SUV
+Nissan,X-Trail,689.0,Hybride benzine,SUV
+Citroen,C1,209.0,Benzine,Micro-auto
+Peugeot,108,219.0,Benzine,Micro-auto
+Toyota,AYGO X,269.0,Benzine,SUV
+Mitsubishi,Space Star,279.0,Benzine,Hatchback
+Suzuki,Ignis,279.0,Benzine,Hatchback
+smart,Forfour,299.0,Elektriciteit,Micro-auto
+Toyota,AYGO X,299.0,Benzine,SUV
+Nissan,Leaf,319.0,Elektriciteit,Hatchback
+Nissan,Micra,329.0,Benzine,Hatchback
+Mazda,2,334.0,Benzine,Hatchback
+Opel,Corsa,339.0,Benzine,Hatchback
+Kia,Stonic,339.0,Benzine,SUV
+Mitsubishi,Colt,339.0,Benzine,Hatchback
+Citroen,C3,339.0,Benzine,Hatchback
+Hyundai,Ioniq,344.0,Elektriciteit,Hatchback
+Seat,Ibiza,354.0,Benzine,Hatchback
+Opel,Crossland,359.0,Benzine,SUV
+Fiat,500e,359.0,Elektriciteit,Hatchback
+Volkswagen,e-Golf,369.0,Elektriciteit,Hatchback
+Peugeot,208,369.0,Benzine,Hatchback
+Opel,Corsa,379.0,Benzine,Hatchback
+Kia,Stonic,379.0,Benzine,SUV
+Hyundai,KONA,384.0,Elektriciteit,SUV
+Opel,Corsa,389.0,Benzine,Hatchback
+Mazda,2,389.0,Hybride benzine,Hatchback
+Hyundai,KONA,399.0,Hybride benzine,SUV
+Fiat,500e,399.0,Elektriciteit,Cabriolet
+Suzuki,Vitara,399.0,Benzine,SUV
+Seat,Arona,404.0,Benzine,SUV
+BYD,Dolphin,409.0,Elektriciteit,Hatchback
+Volkswagen,Polo,409.0,Benzine,Hatchback
+Opel,Mokka,409.0,Benzine,SUV
+Peugeot,208,409.0,Benzine,Hatchback
+Audi,A3 Limousine,419.0,Benzine,Sedan
+Opel,Astra Sports Tourer,419.0,Benzine,Stationwagen
+Mitsubishi,Colt,419.0,Hybride benzine,Hatchback
+Tesla,Model 3,434.0,Elektriciteit,Sedan
+Suzuki,S-Cross,434.0,Benzine,SUV
+Audi,A1 Sportback,439.0,Benzine,Hatchback
+Kia,e-Niro,439.0,Elektriciteit,Hatchback
+Opel,Corsa Electric,439.0,Elektriciteit,Hatchback
+Toyota,Yaris Cross,439.0,Benzine,SUV
+Opel,Crossland,439.0,Benzine,SUV
+MG,4,444.0,Elektriciteit,Hatchback
+Volkswagen,Golf,449.0,Benzine,Hatchback
+Opel,Mokka,449.0,Benzine,SUV
+Ford,Focus,449.0,Benzine,Hatchback
+Suzuki,Vitara,449.0,Hybride benzine,SUV
+Citroen,C3 Aircross,454.0,Benzine,SUV
+Toyota,Yaris Cross,454.0,Hybride benzine,SUV
+Toyota,Corolla,459.0,Hybride benzine,Hatchback
+Mitsubishi,ASX,459.0,Benzine,SUV
+Mercedes-Benz,A-Klasse Limousine,459.0,Benzine,Sedan
+Fiat,600e,459.0,Elektriciteit,SUV
+Kia,Niro,459.0,Hybride benzine,Hatchback
+Mazda,3 sedan,459.0,Benzine,Sedan
+Mazda,3 hatchback,464.0,Benzine,Hatchback
+Peugeot,308,469.0,Benzine,Hatchback
+Volkswagen,Taigo,469.0,Benzine,SUV
+MG,ZS,469.0,Elektriciteit,SUV
+Ford,Focus Wagon,469.0,Benzine,Stationwagen
+Opel,Astra,469.0,Benzine,Hatchback
+Volkswagen,T-Cross,469.0,Benzine,SUV
+Seat,Leon,474.0,Benzine,Hatchback
+Nissan,QASHQAI,479.0,Benzine,Hatchback
+Peugeot,e-2008,479.0,Elektriciteit,SUV
+Mazda,MX-30,479.0,Elektriciteit,SUV
+Opel,Mokka Electric,479.0,Elektriciteit,SUV
+Mitsubishi,ASX,484.0,Hybride benzine,SUV
+Citroen,C4,484.0,Benzine,Hatchback
+MG,5,484.0,Elektriciteit,Stationwagen
+Seat,Leon Sportstourer,489.0,Benzine,Stationwagen
+Citroen,C4 X,489.0,Benzine,Sedan
+Suzuki,S-Cross,489.0,Hybride benzine,SUV
+Peugeot,308 SW,494.0,Benzine,Stationwagen
+Volvo,EX30,499.0,Elektriciteit,SUV
+Citroen,ë-C4,499.0,Elektriciteit,Hatchback
+Renault,Captur,499.0,Hybride benzine,SUV
+Seat,Ateca,499.0,Benzine,SUV
+Opel,Astra Sports Tourer,499.0,Benzine,Stationwagen
+Toyota,Corolla Touring Sports,499.0,Hybride benzine,Stationwagen
+Kia,Niro EV,509.0,Elektriciteit,Hatchback
+Jeep,Renegade,509.0,Benzine,SUV
+Peugeot,2008,509.0,Benzine,SUV
+Volkswagen,T-Roc,509.0,Benzine,SUV
+BYD,ATTO 3,509.0,Elektriciteit,SUV
+Mazda,MX-5 Roadster,514.0,Benzine,Cabriolet
+Citroen,ë-C4 X,519.0,Elektriciteit,Sedan
+Audi,A3 Limousine,519.0,Benzine,Sedan
+Audi,A3 Sportback,524.0,Benzine,Hatchback
+Mercedes-Benz,B-Klasse,529.0,Benzine,MPV
+Renault,Grand Scénic,529.0,Benzine,MPV
+Hyundai,Tucson,529.0,Benzine,SUV
+Volkswagen,Golf,529.0,Benzine,Hatchback
+Mercedes-Benz,CLA,529.0,Benzine,Sedan
+Audi,Q2,529.0,Benzine,SUV
+BMW,1 Serie,529.0,Benzine,Hatchback
+Tesla,Model S,534.0,Elektriciteit,Hatchback
+Audi,A3 Sportback,534.0,Benzine,Hatchback
+Opel,Astra Electric,539.0,Elektriciteit,Hatchback
+Mazda,MX-30 PHEV,544.0,PHEV benzine,SUV
+Mitsubishi,ASX,544.0,PHEV benzine,SUV
+DS,4,549.0,Benzine,Hatchback
+Skoda,Karoq,549.0,Benzine,SUV
+Opel,Astra Sports Tourer Electric,549.0,Elektriciteit,Stationwagen
+Cupra,Born,549.0,Elektriciteit,Hatchback
+Mitsubishi,Eclipse Cross,549.0,PHEV benzine,SUV
+Toyota,Corolla Cross,554.0,Hybride benzine,SUV
+Kia,EV6,559.0,Elektriciteit,SUV
+Volkswagen,Golf,564.0,Benzine,Hatchback
+Opel,Grandland,564.0,Benzine,SUV
+Kia,ProCeed,569.0,Benzine,Stationwagen
+Mazda,CX-5,569.0,Benzine,SUV
+Volkswagen,Golf Variant,569.0,Benzine,Stationwagen
+Peugeot,e-308,569.0,Elektriciteit,Hatchback
+Opel,Astra,569.0,PHEV benzine,Hatchback
+Lynk & Co,01,574.0,PHEV benzine,SUV
+Tesla,Model Y,579.0,Elektriciteit,SUV
+BMW,2 Serie Gran Coupé,579.0,Benzine,Sedan
+Peugeot,408,584.0,Benzine,Hatchback
+Opel,Grandland,584.0,Benzine,SUV
+Peugeot,e-308 SW,584.0,Elektriciteit,Stationwagen
+Opel,Astra Sports Tourer,584.0,PHEV benzine,Stationwagen
+Peugeot,3008,584.0,Benzine,SUV
+Tesla,Model 3,589.0,Elektriciteit,Sedan
+Peugeot,308,589.0,PHEV benzine,Hatchback
+Peugeot,308 SW,594.0,PHEV benzine,Stationwagen
+Peugeot,e-3008,599.0,Elektriciteit,SUV
+DS,4,599.0,PHEV benzine,Hatchback
+Skoda,Enyaq,599.0,Elektriciteit,SUV
+Peugeot,508 SW,599.0,Benzine,Stationwagen
+Volkswagen,ID.3,599.0,Elektriciteit,Hatchback
+Toyota,Prius,599.0,PHEV benzine,Hatchback
+BMW,iX1,609.0,Elektriciteit,SUV
+Peugeot,5008,619.0,Benzine,SUV
+Jeep,Renegade,619.0,PHEV benzine,SUV
+Jeep,Compass,619.0,Benzine,SUV
+Toyota,bZ4X,619.0,Elektriciteit,SUV
+BMW,2 Serie Active Tourer,619.0,Benzine,MPV
+Opel,Grandland,624.0,PHEV benzine,SUV
+BMW,3 Serie Sedan,629.0,Benzine,Sedan
+Citroen,C5 Aircross,629.0,PHEV benzine,SUV
+Skoda,Enyaq Coupe,629.0,Elektriciteit,SUV
+Zeekr,X,629.0,Elektriciteit,SUV
+Citroen,C5 Aircross,629.0,Benzine,SUV
+Peugeot,408,639.0,PHEV benzine,Hatchback
+Cupra,Leon,639.0,PHEV benzine,Hatchback
+Peugeot,5008,639.0,Benzine,SUV
+Mercedes-Benz,EQA,639.0,Elektriciteit,SUV
+Volvo,XC40 Recharge,649.0,Elektriciteit,SUV
+Seat,Tarraco,649.0,Benzine,SUV
+Mazda,6,649.0,Benzine,Sedan
+BMW,2 Serie Active Tourer,649.0,Benzine,MPV
+Ford,Mustang Mach-E,649.0,Elektriciteit,SUV
+Lexus,UX 250h,659.0,Hybride benzine,SUV
+Cupra,Leon Sportstourer,664.0,PHEV benzine,Stationwagen
+Mercedes-Benz,EQB,664.0,Elektriciteit,SUV
+Volvo,C40 Recharge,669.0,Elektriciteit,SUV
+MG,Marvel R,669.0,Elektriciteit,SUV
+Cupra,Formentor,669.0,PHEV benzine,SUV
+Jeep,Compass,669.0,PHEV benzine,SUV
+Volkswagen,T-Roc,679.0,Benzine,SUV
+Mazda,6 Sportbreak,684.0,Benzine,Stationwagen
+Toyota,RAV4,699.0,Hybride benzine,SUV
+Polestar,2,699.0,Elektriciteit,Hatchback
+Xpeng,P7,699.0,Elektriciteit,Sedan
+Audi,Q4 e-tron,709.0,Elektriciteit,SUV
+BMW,X1,709.0,Benzine,SUV
+BMW,iX1,714.0,Elektriciteit,SUV
+Skoda,Kodiaq,729.0,Benzine,SUV
+Citroen,C5 X,729.0,PHEV benzine,Hatchback
+Mazda,CX-60,734.0,PHEV benzine,SUV
+BMW,3 Serie Sedan,739.0,PHEV benzine,Sedan
+BMW,3 Serie Sedan,739.0,Benzine,Sedan
+BMW,X1,744.0,PHEV benzine,SUV
+VinFast,VF 8,749.0,Elektriciteit,SUV
+Mercedes-Benz,C-Klasse Limousine,749.0,PHEV benzine,Sedan
+Peugeot,508,749.0,PHEV benzine,Hatchback
+BMW,iX2,749.0,Elektriciteit,SUV
+BMW,i4,749.0,Elektriciteit,Hatchback
+Subaru,Solterra,769.0,Elektriciteit,SUV
+Peugeot,508 SW,769.0,PHEV benzine,Stationwagen
+Volvo,V60,789.0,Benzine,Stationwagen
+BMW,3 Serie Touring,789.0,PHEV benzine,Stationwagen
+Toyota,RAV4,789.0,PHEV benzine,SUV
+Xpeng,G9,799.0,Elektriciteit,SUV
+BMW,3 Serie Touring,799.0,Benzine,Stationwagen
+Kia,EV9,819.0,Elektriciteit,SUV
+Zeekr,001,829.0,Elektriciteit,Stationwagen
+Volvo,V60,844.0,PHEV benzine,Stationwagen
+Lexus,ES 300h,909.0,Hybride benzine,Sedan
+BMW,X3,939.0,PHEV benzine,SUV
+Alfa Romeo,Giulia,944.0,Benzine,Sedan
+BMW,i5,959.0,Elektriciteit,Sedan
+Land Rover,Range Rover Evoque,969.0,PHEV benzine,SUV
+Volvo,XC60,1019.0,PHEV benzine,SUV
+Alfa Romeo,Stelvio,1129.0,Benzine,SUV
+Citroen,C1,209.0,Benzine,Micro-auto
+Citroen,C1,229.0,Benzine,Micro-auto
+Nissan,Leaf,319.0,Elektriciteit,Hatchback
+Nissan,Leaf,334.0,Elektriciteit,Hatchback
+Nissan,Leaf,334.0,Elektriciteit,Hatchback
+Nissan,Leaf,344.0,Elektriciteit,Hatchback
+Nissan,Leaf,354.0,Elektriciteit,Hatchback
+Nissan,Leaf,364.0,Elektriciteit,Hatchback
+Nissan,Leaf,364.0,Elektriciteit,Hatchback
+Nissan,Leaf,364.0,Elektriciteit,Hatchback
+Nissan,Leaf,394.0,Elektriciteit,Hatchback
+Hyundai,Ioniq,344.0,Elektriciteit,Hatchback
+Hyundai,Ioniq,344.0,Elektriciteit,Hatchback
+Hyundai,Ioniq,359.0,Elektriciteit,Hatchback
+Volkswagen,e-Golf,369.0,Elektriciteit,Hatchback
+Volkswagen,e-Golf,399.0,Elektriciteit,Hatchback
+Hyundai,KONA,384.0,Elektriciteit,SUV
+Hyundai,KONA,434.0,Elektriciteit,SUV
+Hyundai,KONA,434.0,Elektriciteit,SUV
+Hyundai,KONA,434.0,Elektriciteit,SUV
+Hyundai,KONA,434.0,Elektriciteit,SUV
+Hyundai,KONA,449.0,Elektriciteit,SUV
+Hyundai,KONA,449.0,Elektriciteit,SUV
+Hyundai,KONA,449.0,Elektriciteit,SUV
+Hyundai,KONA,449.0,Elektriciteit,SUV
+Hyundai,KONA,449.0,Elektriciteit,SUV
+Hyundai,KONA,449.0,Elektriciteit,SUV
+Hyundai,KONA,449.0,Elektriciteit,SUV
+Hyundai,KONA,449.0,Elektriciteit,SUV
+Hyundai,KONA,464.0,Elektriciteit,SUV
+Hyundai,KONA,469.0,Elektriciteit,SUV
+Hyundai,KONA,469.0,Elektriciteit,SUV
+Hyundai,KONA,469.0,Elektriciteit,SUV
+Hyundai,KONA,469.0,Elektriciteit,SUV
+Hyundai,KONA,469.0,Elektriciteit,SUV
+Hyundai,KONA,469.0,Elektriciteit,SUV
+Hyundai,KONA,469.0,Elektriciteit,SUV
+Hyundai,KONA,469.0,Elektriciteit,SUV
+Hyundai,KONA,469.0,Elektriciteit,SUV
+Hyundai,KONA,469.0,Elektriciteit,SUV
+Hyundai,KONA,469.0,Elektriciteit,SUV
+Hyundai,KONA,469.0,Elektriciteit,SUV
+Hyundai,KONA,469.0,Elektriciteit,SUV
+Hyundai,KONA,469.0,Elektriciteit,SUV
+Hyundai,KONA,469.0,Elektriciteit,SUV
+Hyundai,KONA,469.0,Elektriciteit,SUV
+Hyundai,KONA,469.0,Elektriciteit,SUV
+Tesla,Model 3,434.0,Elektriciteit,Sedan
+Tesla,Model 3,479.0,Elektriciteit,Sedan
+Tesla,Model 3,479.0,Elektriciteit,Sedan
+Tesla,Model 3,479.0,Elektriciteit,Sedan
+Tesla,Model 3,479.0,Elektriciteit,Sedan
+Tesla,Model 3,479.0,Elektriciteit,Sedan
+Tesla,Model 3,479.0,Elektriciteit,Sedan
+Tesla,Model 3,494.0,Elektriciteit,Sedan
+Tesla,Model 3,494.0,Elektriciteit,Sedan
+Tesla,Model 3,494.0,Elektriciteit,Sedan
+Tesla,Model 3,494.0,Elektriciteit,Sedan
+Tesla,Model 3,494.0,Elektriciteit,Sedan
+Tesla,Model 3,494.0,Elektriciteit,Sedan
+Tesla,Model 3,499.0,Elektriciteit,Sedan
+Tesla,Model 3,514.0,Elektriciteit,Sedan
+Tesla,Model 3,514.0,Elektriciteit,Sedan
+Kia,e-Niro,439.0,Elektriciteit,Hatchback
+Kia,e-Niro,439.0,Elektriciteit,Hatchback
+Kia,e-Niro,439.0,Elektriciteit,Hatchback
+Kia,e-Niro,479.0,Elektriciteit,Hatchback
+Tesla,Model S,534.0,Elektriciteit,Hatchback
+Tesla,Model S,534.0,Elektriciteit,Hatchback
+Tesla,Model S,534.0,Elektriciteit,Hatchback
+Tesla,Model S,534.0,Elektriciteit,Hatchback
+Tesla,Model S,534.0,Elektriciteit,Hatchback
+Tesla,Model S,534.0,Elektriciteit,Hatchback
+Tesla,Model S,534.0,Elektriciteit,Hatchback
+Tesla,Model S,544.0,Elektriciteit,Hatchback
+Tesla,Model S,544.0,Elektriciteit,Hatchback
+Tesla,Model S,549.0,Elektriciteit,Hatchback
+Tesla,Model S,549.0,Elektriciteit,Hatchback
+Tesla,Model S,549.0,Elektriciteit,Hatchback
+Tesla,Model S,549.0,Elektriciteit,Hatchback
+Tesla,Model S,559.0,Elektriciteit,Hatchback
+Tesla,Model S,559.0,Elektriciteit,Hatchback
+Tesla,Model S,559.0,Elektriciteit,Hatchback
+Tesla,Model S,559.0,Elektriciteit,Hatchback
+Tesla,Model S,559.0,Elektriciteit,Hatchback
+Tesla,Model S,564.0,Elektriciteit,Hatchback
+Tesla,Model S,564.0,Elektriciteit,Hatchback
+Tesla,Model S,564.0,Elektriciteit,Hatchback
+Tesla,Model S,564.0,Elektriciteit,Hatchback
+Tesla,Model S,569.0,Elektriciteit,Hatchback
+Tesla,Model S,569.0,Elektriciteit,Hatchback
+Tesla,Model S,584.0,Elektriciteit,Hatchback
+Tesla,Model S,589.0,Elektriciteit,Hatchback
+Tesla,Model S,594.0,Elektriciteit,Hatchback
+Tesla,Model S,594.0,Elektriciteit,Hatchback
+Tesla,Model S,594.0,Elektriciteit,Hatchback
+Tesla,Model S,594.0,Elektriciteit,Hatchback
+Tesla,Model S,594.0,Elektriciteit,Hatchback
+Tesla,Model S,594.0,Elektriciteit,Hatchback
+Tesla,Model S,614.0,Elektriciteit,Hatchback
+Tesla,Model S,614.0,Elektriciteit,Hatchback
+Tesla,Model S,679.0,Elektriciteit,Hatchback
+Tesla,Model S,704.0,Elektriciteit,Hatchback
